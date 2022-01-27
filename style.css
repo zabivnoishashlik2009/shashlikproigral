@@ -1,0 +1,182 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.menu {
+	width: 100%;
+	background-color: black;
+}
+.menu ul{
+	margin: 0 auto;
+	width: 300px;
+}
+.menu ul li { display: inline;
+}
+.menu ul li a{
+	text-decoration: none;
+	display: inline-block;
+	color: dodgerblue;
+	padding: 5px 10px;
+}
+.citata {
+	padding: 150px;
+	background-image: url(images/polygons.png);
+	color: white;
+}
+.citata h1 {
+	font-style: italic;
+}
+input[type=button] {
+	color: black;
+	padding: 10px 15px;
+	margin-top: 10px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.about-company {
+	margin: 0 auto;
+	text-align: justify;
+}
+input[type=button]:hover {
+	background-color: grey;
+	cursor: pointer;
+}
+.about-company img {
+	width: 400px;
+	height: auto;
+	float: right;
+	margin: 30px;
+}
+input[type=submit] {
+	color: #fff;
+	background-color: #16a085;
+	width: 250px;
+	border-radius: 5px;
+	padding: 10px;
+}
+input[type=submit]:hover {
+	color: #16a085;
+	background-color: #fff;
+	cursor: pointer;
+}
+img {
+	width: 250px;
+}
+div .Dior {
+	border-style: solid;
+	padding: 20px;
+	box-shadow: 1px 2px 10px gray;
+	border: none;
+	margin-left: 20px;
+	width: 250px;
+	display: inline-block;
+}
+.job {
+	color: gray;
+}
+#money {
+	width: 100%;
+	background-color: gray;
+
+}
+.price {
+	border: solid 1px black;
+	width: 30%;
+	display: inline-block; 
+	margin: 5px;
+}
+#money h1 , #money h2{
+	color: white;
+	text-align: center;
+}
+#price1{
+background-color: black;
+color: white;
+text-align: center;
+}
+#price2{
+background-color: cyan;
+color: white;
+text-align: center;
+}
+#price3{
+background-color: black;
+color: white;
+text-align: center;
+}
+.price {
+	background-color: white;
+}
+/*ul li {
+	list-style-type: none;
+	border-bottom: solid 1px gray;
+	padding: 7px;
+	text-align: center;
+}*/
+.cn[type=submit] {
+	color: #fff;
+	background-color: black;
+	width: 100px;
+    margin: 0 auto;
+}
+.cn[type=submit]:hover {
+	color: black;
+	background-color: #fff;
+	cursor: pointer;
+}
+#price1, #price2, #price3 {
+     padding-top: 20px;
+     padding-bottom: 20px;
+}
+.s {
+ width: 30px;
+}
+input {
+	width: 75%;
+	padding: 10px;
+	margin-top: 10px;
+	border: 2px solid #000;
+	color: #000;
+	outline: none;
+	border-radius: 1000px;
+}
+#contacts {
+	width: 100%;
+}
+footer {
+	background:#dcadff; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
